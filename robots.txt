@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-tncxmn.pawcheck.app/sitemap.xml
